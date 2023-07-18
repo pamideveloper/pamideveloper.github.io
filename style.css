@@ -51,7 +51,7 @@ body{
 	font: 16px/28px arial, sans-serif;
 	background-color: #eaeaea;
 	color:#483D8B;
-	background-image: url(bg2.png);
+	background-image: url(img/bg2.png);
 }
 
 .top-bar{
@@ -75,7 +75,7 @@ body{
 .twitter{
 	width: 200px;
 	height: 201px;
-	background-image: url(twitter.png);
+	background-image: url(img/twitter.png);
 	background-repeat: no-repeat;
 	display: inline-block;
 	text-indent: -9999px;
@@ -111,7 +111,7 @@ body{
 }
 .hero{
 	height: 550px;
-	background-image: url(andra.png);
+	background-image: url(img/andra.png);
 	background-size: cover; 
 	background-position: 0-520px;
 	border-top: 5px solid #6A5ACD;
